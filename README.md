@@ -2,7 +2,7 @@
 
 A dynamic packing list application built with React.js, leveraging modern component-based architecture and state management techniques.
 
-## 🛠️ Technical Stack & Features
+## Technical Stack & Features
 
 ### React.js Core Concepts
 - **Component Composition**: Structured into reusable components (App, Form, PackingList, Item, Stats) following single responsibility principle
